@@ -13,7 +13,7 @@ Bu proje, kullanıcıların key-value (anahtar-değer) çiftleri ekleyerek yapı
 
 Projeyi yerel ortamınıza klonlayın:
 ```sh
-git clone https://github.com/osmanbayy/env-keyvalue-editor.git
+git clone https://github.com/osmanbayy/key-value-editor.git
 ```
 
 Gerekli bağımlılıkları yükleyin:
