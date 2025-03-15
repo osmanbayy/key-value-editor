@@ -40,7 +40,3 @@ Bu proje aşağıdaki teknolojiler kullanılarak geliştirilmiştir:
 
 ## 🌟 Katkıda Bulunma
 Her türlü katkı ve geri bildirim için pull request veya issue açabilirsiniz.
-
-## 👤 Lisans
-Bu proje MIT lisansı ile lisanslanmıştır.
-
